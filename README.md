@@ -1,8 +1,8 @@
 # Berita Dunia — 20 November 2026
 
-[![news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
-[![rank](https://make.fun/badge/news-image-20261120/iwanr94/news-image/rank.svg)](https://make.fun/bounty/news-image-20261120)
-[![reward](https://make.fun/badge/news-image-20261120/iwanr94/news-image/reward.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/iwanr94/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/iwanr94/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A single 1024x1024 front page summarizing the world news of Friday, 20 November 2026,
 built for the make.fun `news-image-20261120` bounty. Newspaper/infographic style:
